@@ -5,4 +5,4 @@ Project from Grade 11
 
 Coding with Visual Studio Code
 
-Game development with Unity >>
+Game development with Unity
